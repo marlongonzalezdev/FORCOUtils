@@ -49,8 +49,8 @@
     <Compile Include="DALUtils\DBContextHelpers.cs" />
     <Compile Include="DALUtils\EntityFrameworkDataRepository.cs" />
     <Compile Include="DALUtils\IGenericRepository.cs" />
-    <Compile Include="EnumUtils\EnumUtils.cs" />
-    <Compile Include="ExceptionUtils\ExceptionHelpers.cs" />
+    <Compile Include="EnumUtils\EnumParser.cs" />
+    <Compile Include="ExceptionUtils\ExceptionExtensions.cs" />
     <Compile Include="ImageUtils\ImageConverter.cs" />
     <Compile Include="LogUtils\FileLog.cs" />
     <Compile Include="LogUtils\IGenericLog.cs" />

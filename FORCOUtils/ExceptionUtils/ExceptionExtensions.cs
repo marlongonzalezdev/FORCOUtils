@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FORCOUtils.ExceptionUtils
 {
-    public static class ExceptionHelpers
+    public static class ExceptionExtensions
     {
         /// <author>Jose Alexis Hernandez-jahernandezricardo@gmail.com</author>
         /// <summary>
